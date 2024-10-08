@@ -1,0 +1,14 @@
+.header_main{
+    display: flex;
+   list-style: none;
+    width: 100vw;
+    height: 10vh;
+    background-color: antiquewhite;
+    
+   
+}
+.header_navigation{
+
+   text-align: center;
+    padding: 20px;
+}
