@@ -5,6 +5,7 @@ function Home(){
         <>
         <div className="main">
            
+           
             <center>
             <div className="submain">
             <img src="https://corretto.qodeinteractive.com/wp-content/uploads/2018/04/h1-slider-img-1.png" className="img"></img>

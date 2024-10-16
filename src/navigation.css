@@ -1,14 +1,47 @@
-.header_main{
-    display: flex;
-   list-style: none;
+.navbar{
+    display:flex;
+    justify-content: space-evenly;
+    background-color: wheat;
     width: 100vw;
-    height: 10vh;
-    background-color: antiquewhite;
-    
+    padding:1px;
+   
    
 }
-.header_navigation{
 
-   text-align: center;
-    padding: 20px;
+.nav{
+    text-align: end;
+    margin-right:0;
+    padding-right:0;
+  
+
 }
+
+.unorder{
+    
+    text-decoration: none;
+    display: flex;
+   
+    cursor:pointer; 
+    list-style: none;
+}
+  
+.unorder li{
+    font-size: 22px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+    color:white;  
+   
+}
+
+.list{
+    font-size:18px;
+    padding-right: 20px;
+  color:black;
+  letter-spacing: 1px;
+  text-decoration: none;
+ 
+}
+
+Link{
+    text-decoration: none;
+    color:black;
+  }
